@@ -1,2 +1,1 @@
-# Lung-Cancer-Detection-using-CNN
-Lung Cancer Detection using CNN
+This project has been developed with the aim to detect lung cancer from ct scans by first training the model using the dataset provided by kaggle and then using the trained model to predict the classification of the input image. It uses CNN for learning the dataset and various optimization techniques have been applied to increase the accuracy. i have attained a testing accuracy of about 97%.
